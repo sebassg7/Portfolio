@@ -10,7 +10,7 @@ export const projects1 = [
         title: "CalendarApp",
         description: "The Event Calendar app provides an intuitive calendar-based interface, where users can manage and record events efficiently. The main features of the application include user interface, event management, registration and authentication, and security.",
         imgUrl: projImg6,
-        // githubURL: 'https://calendarapp-backend-production-0d37.up.railway.app/auth/login'
+        githubURL: 'https://calendarapp-backend-production-0d37.up.railway.app/auth/login'
     },
     {
         title: "GifExplorerApp",
